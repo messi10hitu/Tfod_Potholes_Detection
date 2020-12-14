@@ -1,0 +1,38 @@
+<annotation>
+	<folder>potholes images</folder>
+	<filename>314.jpg</filename>
+	<path>C:\Users\HS\Desktop\potholes images\314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>124</ymin>
+			<xmax>223</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>72</ymin>
+			<xmax>170</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>
